@@ -11,4 +11,10 @@ git merge <branch>
 clear
 git status
 git log
+git remote add origin <url>
+git tag -a <semver> -m '<msg>'
+git push origin <branch>
+git push origin --tags
+git pull origin <branch>
+git fetch origin
 ```
