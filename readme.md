@@ -10,4 +10,5 @@ git checkout <branch>
 git merge <branch>
 clear
 git status
+
 ```
